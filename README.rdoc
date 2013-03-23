@@ -1,3 +1,13 @@
-= ECM Module Template
+= ECM Lightbox Module
+
+= Usage
+
+Add a call to the modal_gallery helper to your layout:
+
+  # app/views/layouts/application.html.erb:
+  <%= modal_gallery %>
+
+= License
 
 This project rocks and uses MIT-LICENSE.
+
