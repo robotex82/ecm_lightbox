@@ -11,6 +11,8 @@ require "sprockets/railtie"
 Bundler.require
 require "activeadmin"
 require "i18n_routing"
+require "less-rails"
+require "twitter-bootstrap-rails"
 require "ecm_lightbox"
 
 module Dummy

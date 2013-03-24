@@ -10,4 +10,8 @@
  *
  *= require_self
  *= require_tree .
+ *= require ecm_lightbox
  */
+#main_content {
+  margin-top: 60px;
+}

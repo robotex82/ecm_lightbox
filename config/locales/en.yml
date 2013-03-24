@@ -1,1 +1,8 @@
-en:
+en: 
+  ecm: 
+    lightbox: 
+      actions: 
+        download: Download
+        next: Next
+        previous: Previous
+        slideshow: Slideshow
