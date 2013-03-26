@@ -1,4 +1,9 @@
 
+0.0.2.pre / 2013-03-26 
+======================
+
+  * Fixed: Previous button color not matching next button.
+
 0.0.1.pre / 2013-03-24 
 ======================
 
